@@ -37,17 +37,13 @@
         </tr>
         <tr>
             <td valign="top">
-                <sub>
                 - 프로젝트 기획<br>
                 - 환경 구축<br>
                 - 전략 수립
-                </sub>
             </td>
             <td valign="top">
-                <sub>
                 - 결과 분석<br>
                 - 하이퍼파라미터 튜닝
-                </sub>
             </td>
         </tr>
     </table>
